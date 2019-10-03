@@ -103,7 +103,8 @@ function init() {
   };
     
   /* pmd, vmd File */
-  var modelFile = './mmd/pmd/Lat式ミクVer2.31_Sailor夏服エッジ無し専用.pmd'; //エッジ無しverにしないと描画が変になる
+  //var modelFile = './mmd/pmd/Lat式ミクVer2.31_Sailor夏服エッジ無し専用.pmd'; //エッジ無しverにしないと描画が変になる
+  var modelFile = './mmd/pmx/KaguraNana V1.0c.pmx'; //エッジ無しverにしないと描画が変になる
   
   var vmdFiles = ['./mmd/vmd/地球最後の告白を_Latミクv2.31S_b.vmd'];
 
